@@ -1,0 +1,9 @@
+1. Explain the difference between Bag of Words, TF-IDF, Word2Vec, GloVe, and BERT for text classification.
+
+2. How should tweets be preprocessed for sentiment analysis, including hashtags, mentions, URLs, and stopwords?
+
+3. Give Python code for implementing Word2Vec sentence embeddings using Gensim.
+
+4. How can BERT embeddings be used for tweet classification without full fine-tuning?
+
+5. How should NLP models be compared using accuracy, F1-score, and time taken?

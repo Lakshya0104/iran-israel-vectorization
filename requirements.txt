@@ -1,0 +1,12 @@
+
+```txt
+numpy
+pandas
+scikit-learn
+gensim
+scipy
+nltk
+transformers
+torch
+jupyter
+notebook

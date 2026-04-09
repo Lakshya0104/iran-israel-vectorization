@@ -1,0 +1,14 @@
+Team Members: 2
+
+Jyothir Adithya - 50%
+- Dataset collection and cleaning
+- Preprocessing and vectorization implementation
+- BoW, TF-IDF, and Word2Vec experiments
+- Model evaluation and debugging
+- GitHub repository organization
+
+Lakshya - 50%
+- Data labeling and validation
+- BERT / advanced embedding experiments
+- Result analysis
+- Report and documentation support
